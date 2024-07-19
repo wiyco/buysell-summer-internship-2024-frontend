@@ -24,3 +24,13 @@ pnpm install
 ```bash
 pnpm dev
 ```
+
+## Task
+
+RHFとZodを使用して、それぞれの商材に適したフォームを動的に生成
+
+> [!NOTE]
+>
+> 課題となったファイルは以下
+> - [`./src/pages/ItemForm/index.tsx`](./src/pages/ItemForm/index.tsx)
+> - [`./src/pages/ItemForm/schema.ts`](./src/pages/ItemForm/schema.ts)
